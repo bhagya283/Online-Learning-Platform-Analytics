@@ -18,8 +18,10 @@ This project analyzes online learning platforms to understand course distributio
 - Business and data-related domains have the highest course count
 - Most platforms provide certification for their courses
 
-## 📷 Dashboard Preview
-(Upload screenshot here)
+## 📊 Dashboard Preview
+
+![Online Learning Platform Analytics Dashboard](dashboard.png)
+
 
 ## 📂 Files Included
 - Power BI dashboard (.pbix)
